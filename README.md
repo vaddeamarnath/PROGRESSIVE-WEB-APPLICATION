@@ -14,3 +14,8 @@ COMPANY" : CODTECH IT SOLUTIONS
 ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
 #OUTPUT
+
+<img width="324" alt="Image" src="https://github.com/user-attachments/assets/17d46e9e-463d-4871-8510-e6bfe74b6fa5" />
+
+![Image](https://github.com/user-attachments/assets/c0a7e007-620e-4560-872a-056092248de9)
+
